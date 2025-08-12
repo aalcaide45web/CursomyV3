@@ -1,0 +1,11 @@
+# Ignorar carpeta de subidas y archivos grandes
+/uploads/
+*.mp4
+*.zip
+*.rar
+*.7z
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
+*.log
