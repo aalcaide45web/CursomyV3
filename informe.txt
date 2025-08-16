@@ -1,0 +1,131 @@
+{
+  "timestamp": "2025-08-16T16:43:59.787Z",
+  "summary": {
+    "totalJobsWithErrors": 1,
+    "totalErrors": 19
+  },
+  "jobs": [
+    {
+      "courseTitle": "3 - Master en CSS3 Avanzado Maqueta 3 sitios web profesionales",
+      "status": "processing",
+      "createdAt": "2025-08-16T16:35:53.952Z",
+      "completedAt": null,
+      "errors": [
+        {
+          "section": "13 - Empezando la maquetación web - Proyecto #1",
+          "file": "003. @RecursosCompartidos Cargando fuentes con CSS - _font-face y libreria de fuentes de iconos svg.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:36:04.565Z"
+        },
+        {
+          "section": "15 - Estilos CSS estructura de la web y la página principal - Proyecto #1",
+          "file": "002. @RecursosCompartidos Creando variables para los colores de la web.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:36:07.076Z"
+        },
+        {
+          "section": "15 - Estilos CSS estructura de la web y la página principal - Proyecto #1",
+          "file": "004. @RecursosCompartidos Estilos para la Layout principal - CSS Grid Layout.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:36:07.333Z"
+        },
+        {
+          "section": "15 - Estilos CSS estructura de la web y la página principal - Proyecto #1",
+          "file": "005. @RecursosCompartidos Fondo de la web y posicionamiento del mismo - Background size y cover.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:36:07.334Z"
+        },
+        {
+          "section": "16 - Estilos CSS barra lateral azul con información del usuario - Proyecto #1",
+          "file": "001. @RecursosCompartidos Empezando la maquetacion de la barra lateral de la web.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:36:07.335Z"
+        },
+        {
+          "section": "16 - Estilos CSS barra lateral azul con información del usuario - Proyecto #1",
+          "file": "003. @RecursosCompartidos Maquetacion nombre_ trabajo e iconos svg - Pseudo clases y Pseudo elementos.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:36:07.336Z"
+        },
+        {
+          "section": "16 - Estilos CSS barra lateral azul con información del usuario - Proyecto #1",
+          "file": "004. @RecursosCompartidos Maquetacion del boton de curriculum y el pie de pagina de la web.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:36:07.336Z"
+        },
+        {
+          "section": "16 - Estilos CSS barra lateral azul con información del usuario - Proyecto #1",
+          "file": "005. @RecursosCompartidos Efecto bordes redondeados y contenido central.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:36:07.337Z"
+        },
+        {
+          "section": "16 - Estilos CSS barra lateral azul con información del usuario - Proyecto #1",
+          "file": "006. @RecursosCompartidos Maquetacion del menu de navegacion con CSS3.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:36:07.338Z"
+        },
+        {
+          "section": "16 - Estilos CSS barra lateral azul con información del usuario - Proyecto #1",
+          "file": "007. @RecursosCompartidos Animaciones y tooltips en el menu de la web.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:36:07.339Z"
+        },
+        {
+          "section": "18 - Scroll personalizado con HTML5 y CSS3 - Proyecto #1",
+          "file": "001. @RecursosCompartidos Scroll personalizado en Google Chrome y Mozilla Firefox con CSS.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:36:10.694Z"
+        },
+        {
+          "section": "28 - Responsive Web Design - Proyecto #1",
+          "file": "001. @RecursosCompartidos Empezando el diseno adaptable para que la web se vea adaptada en movil y tablet.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:36:41.760Z"
+        },
+        {
+          "section": "28 - Responsive Web Design - Proyecto #1",
+          "file": "012. @RecursosCompartidos Mostrando el menu con JavaScript - Menu Toggle HTML5_ CSS3 y JavaScript moderno.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:36:49.074Z"
+        },
+        {
+          "section": "35 - Maquetación para el banner con burbujas y animaciones increíbles - Proyecto #2",
+          "file": "003. @RecursosCompartidos Posicionamiento y capas de las formas del banner.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:37:22.424Z"
+        },
+        {
+          "section": "35 - Maquetación para el banner con burbujas y animaciones increíbles - Proyecto #2",
+          "file": "004. @RecursosCompartidos Animaciones unicas de entrada en elementos del banner.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:37:22.425Z"
+        },
+        {
+          "section": "37 - Estilos para la sección de proyectos - Proyecto #2",
+          "file": "002. @RecursosCompartidos Estilos para el menu de categorias y las tarjetas de proyectos.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:37:29.485Z"
+        },
+        {
+          "section": "44 - JavaScript - Proyecto #2",
+          "file": "001. @RecursosCompartidos JavaScript para el menu responsivo.mp4",
+          "error": "Error: SQLSTATE[HY000]: General error: 10 disk I/O error",
+          "timestamp": "2025-08-16T16:39:13.769Z"
+        },
+        {
+          "section": "48 - HTML completo - Proyecto #3",
+          "file": "002. @RecursosCompartidos Estructura inicial y menu navegacion.mp4",
+          "error": "Error: SQLSTATE[HY000]: General error: 10 disk I/O error",
+          "timestamp": "2025-08-16T16:40:27.491Z"
+        },
+        {
+          "section": "52 - Publicar sitios web en Internet - Subir webs hechas con HTML, CSS y JavaScript",
+          "file": "002. @RecursosCompartidos Como subir y publicar sitios web en internet.mp4",
+          "error": "Failed to fetch",
+          "timestamp": "2025-08-16T16:41:23.557Z"
+        }
+      ]
+    }
+  ]
+}
